@@ -1,0 +1,24 @@
+#liMap{
+    
+    display: flex;
+    flex-direction: row-reverse;
+}
+#liMap2 {
+    
+    border:1px solid black;
+    list-style-type: none;
+}
+
+#ulMap{
+    
+}
+
+
+.img {
+    width: 100px;
+    height: 50px;
+}
+
+#participants{
+    width: 30vw;
+}
